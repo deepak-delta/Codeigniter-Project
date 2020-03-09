@@ -1,0 +1,82 @@
+input{
+    border-radius: 10px;
+    border-width: 1px;
+    background-color: rgb(238, 229, 216);
+    padding: 5px 10px;
+    outline: none;
+}
+body
+{
+    background-color: #3c3c3c;
+    color: white;
+}
+tr td textarea
+{
+    background-color: rgb(238, 229, 216);
+    border-radius: 10px;
+    border-width: 1px;
+    padding: 5px 10px;
+    outline: none;
+}
+
+select.course-select
+{
+    background-color: rgb(238, 229, 216);
+    padding: 5px 10px;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: transparent;
+    outline: none;
+}
+
+select.training-select
+{
+    background-color: rgb(238, 229, 216);
+    padding: 5px 10px;
+    border-radius: 10px;
+    border-width: 1px;
+    outline: none;
+}
+h3.mainHeading
+{
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+input.submit-button
+{
+    width: 200px;
+    border-color: transparent;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+input.reset-button
+{
+    width: 200px;
+    border-color: transparent;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+input.submit-button:hover
+{
+    background-color: yellowgreen;
+    color: white;
+}
+
+input.reset-button:hover
+{
+    background-color: red;
+    color: white;
+}
+
+input.input-photo
+{
+    color: black;
+}
+
+input.input-resume
+{
+   color: black;
+}

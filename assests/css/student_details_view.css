@@ -1,0 +1,46 @@
+body {
+    background: rgb(204,204,204); 
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    
+  }
+  img {
+    position: relative;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 130px;
+    height: 150px;
+    float: right;
+    margin: 20px 20px 0 0;
+  }
+
+  .tone{
+    position: absolute;
+    margin-left: 7rem;
+    margin-top: 30px;
+    
+  }
+
+  .tone h2{
+    margin-left: 8rem;
+  }
+page {
+    
+    background: white;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 0.5cm;
+    box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+    
+  }
+  page[size="A4"] { 
+    
+    width: 21cm;
+    height: 29.7cm; 
+    padding: 5px;
+    border-top-left-radius: 5px;
+  }
+
+  
+  
